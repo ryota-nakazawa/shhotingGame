@@ -2,4 +2,6 @@
 
 This is nakazawa's very fancy game!
 
-## Thank you for comming
+## Thank you for coming
+
+Yo-kai is the best.
